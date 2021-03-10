@@ -1,0 +1,4 @@
+Administración. Se encarga de plantear, organizar, direccionar y controlar un sistema sin la necesidad de conocer específicamente
+cada parte del mismo. Todo esto para cumplir un objetivo en específico.
+
+Gestión. Es la operación o acción directa de la administración en una parte del proceso, el ejercicio de la dministración. 
